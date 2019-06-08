@@ -2,7 +2,7 @@
 This Repository contains scripts about terrform labs from basic to advance 
 purpose to build this repository at public level to benefitize people with 
 terraform beauty 
-# Static Web Server with terraform
+# Plain EC2 Server with terraform
 This repository will setup complete AWS environment with 
 - VPC
 - Subnets
